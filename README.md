@@ -1,5 +1,5 @@
 
-### Hello! I'm Sheeba!👋
+### Hello, I'm Sheeba!👋
 <img src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611cb8e070850231f33fd4e616e2c05eea5751fa847&rid=giphy.gif&ct=g">
 <br>
 
