@@ -3,7 +3,7 @@
 <img src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611cb8e070850231f33fd4e616e2c05eea5751fa847&rid=giphy.gif&ct=g">
 <br>
 
-🗽 I'm a Full Stack Developer from New York.<br>
+🗽 I am a Full Stack Developer from New York.<br>
 🖥️ I am currently enrolled in Bloom Institute of Technology (FKA Lambda School).<br>
 👩‍💻 I have completed my Bachelors in Engineering.<br>
 💕 I love cats but if you have a dog, I would love to see your fluffy friend.<br>
