@@ -7,7 +7,8 @@
 🖥️ I am currently enrolled in Bloom Institute of Technology (FKA Lambda School).<br>
 👩‍💻 I have completed my Bachelors in Engineering.<br>
 💕 I love cats but if you have a dog, I would love to see your fluffy friend.<br>
-🎨 I love to paint in my free time.<br>
+🎨 I love to paint/sketch in my free time.<br>
+⚡ Fun Fact: I sketched the bird in my avatar. <br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
